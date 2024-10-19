@@ -1,4 +1,4 @@
-# UnrealFramework
+# Unreal Framework for Human-Robot Interaction
 # Unreal Engine Virtual Framework for Human-Robot Interaction
 
 This is a framework for building virtual worlds for Human Robot Interaction using Unreal Engine (UE) and for testing the associated algorithms using Python which communicates with Unreal Engine in real-time. It provides templates for the robots NAO and Pepper and a sample human mesh. The robots camera can be accessed and its behavior can be controlled during runtime using Python. Commonly used functionality such as Movement, Speech, Posture (NAO Robot), Emotions (Human Only) etc is provided. A sample python script is provided.  
